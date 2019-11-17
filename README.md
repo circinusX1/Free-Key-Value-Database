@@ -318,13 +318,15 @@ Make a donation to keep the service alive at https://www.meeiot.org/
 # SSH mqtt broker server (opened for testing Nov 6).
 
 * Get a user token using community sigin (or contact me). 
-    * The mqtt registration does not work with freen token.
+    * MQTT registration does not work with a free generated token.
     
-* For messing around you can use
+* For testing you can use this token.
     * TOKEN:  5ba8e5788973226b3255844b37221c2a0f8a3921784b8cf1c93b9f
     * PASSWORD: mariusxxx
     
-* To setup up a mqtt password for your username(TOKEN)   use 'mqt/TOK/register/' API
+### MQTT    
+* Specific user token    
+    * To setup up a mqtt password for your username(TOKEN)   use 'mqt/TOK/register/' API
 
 ```bash
 	
