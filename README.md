@@ -309,6 +309,9 @@ JSON_TO_SHARE+/tmp/appjson
 [[ ! -f ${JSON_TO_SHARE} ]] && exit
 MYID="5ba8e5788973226b3255844b37221c2a0f8a3921784b8cf1c93b9f"
 curl -vX POST https://meeiot.org/put/${NYID}/mydata -d @${JSON_TO_SHARE}  --header "Content-Type: application/json"
+
+
+
 ```
 
 
@@ -319,14 +322,13 @@ Make a donation to keep the service alive at https://www.meeiot.org/
 
 * Get a user token using community sigin (or contact me). 
     * MQTT registration does not work with a free generated token.
-    
-* For testing you can use this token.
-    * TOKEN:  5ba8e5788973226b3255844b37221c2a0f8a3921784b8cf1c93b9f
-    * PASSWORD: mariusxxx
+   
     
 ### MQTT    
 * Specific user token    
-    * To setup up a mqtt password for your username(TOKEN)   use 'mqt/TOK/register/' API
+    * To setup up a mqtt password for your username(TOKEN) 'register' key using mqt verb as:
+    * 'https://meeiot.org/mqt/<TOK>/register/password'
+        * where the password is the MQTT password and TOKEN is the MQTT username
 
 ```bash
 	
