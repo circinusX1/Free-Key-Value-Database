@@ -402,10 +402,8 @@ mosquitto_pub  "te/st" -m "hello world"
 ```
 
 
+* Please make a donation to keep the service alive at 
 
-* Please make a donation to keep the service alive at https://www.meeiot.org/
-    * This is one man business
-* Check also and buy some sdcards https://www.redypis.org
-    * This is one man business
+https://www.meeiot.org/
 
 
