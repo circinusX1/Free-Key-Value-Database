@@ -47,9 +47,6 @@ https://meeiot.org/pop/TOKEN/pressure
 
 
 
-## Ad : R-PI Preloaded SD Cards at https://www.redypis.org  
-
-## 
 
 ```console
 https://meeiot.org/put</get/push/pop/del/qdel>/user/<key>=<value> <HTTP_POST <hdr='headers,...'> <multipart> <json> >
@@ -212,6 +209,7 @@ curl -k -F mykey=@testfile https://meeiot.org/put/5ba8e5788973226b3255844b37221c
 #### Error Codes
 
 #### !!! On: Dec 1 2019 Be prepared to handle returned error codes as JSON
+
 ```
 # no error
 {
