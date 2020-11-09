@@ -206,9 +206,9 @@ curl -k -v -H "Content-Type: application/json" -X POST -d @./json.txt https://me
 curl -k -F mykey=@testfile https://meeiot.org/put/5ba8e5788973226b3255844b37221c2a0f8a3921784b8cf1c93b9f
 ```
         
-#### Error Codes
+#### Error Codes 
 
-#### !!! On: Dec 1 2019 Be prepared to handle returned error codes as JSON
+#### TBD
 
 ```
 # no error
