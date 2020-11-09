@@ -3,7 +3,7 @@
 ## All SSL secured
 
 
-#### meeiot server is located in Frankfurd Germany, so for North America is bit slow. Make a donation to expand myself.
+#### meeiot server is located in Frankfurd Germany, so for North America is bit slow. PLease make a donation to expand the service.
 
 ##### Comming soon. UDP relaying peer-to-peer node, UDP streaming from behind any proxies and routers device to device.
     * https://github.com/comarius/perlink/tree/master/doc 
