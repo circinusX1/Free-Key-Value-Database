@@ -1,5 +1,5 @@
 # ONLINE KEY VALUE DATABASE & RELAYING DATA
-# MQTT up and running in testing mode
+# domain changed to  https://meeiot.mine.nu
 ## All SSL secured
 
 
